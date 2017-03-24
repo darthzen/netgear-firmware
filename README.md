@@ -18,10 +18,10 @@ Note:
 2. To install the toolcain
    1. The toolchain MUST be installed under /projects/hnd/tools/linux/ directory. After mkdir the dir,
    
-            `tar xvfj hndtools-arm-linux-2.6.36-uclibc-4.5.3.tar.bz2`
+            tar xvfj hndtools-arm-linux-2.6.36-uclibc-4.5.3.tar.bz2
    2. Add the path
    
-            `export PATH=/projects/hnd/tools/linux/hndtools-arm-linux-2.6.36-uclibc-4.5.3/bin:$PATH`
+            export PATH=/projects/hnd/tools/linux/hndtools-arm-linux-2.6.36-uclibc-4.5.3/bin:$PATH
 
 ## Build code
 
