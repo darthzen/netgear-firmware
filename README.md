@@ -35,7 +35,7 @@ Note:
 
         cd R7000-V1.0.7.6_1.1.99_src/src/router/
         make PROFILE=R7000 FW_TYPE=WW ARCH=arm PLT=arm LINUX_VERSION=2_6_36
-	make install PROFILE=R7000 FW_TYPE=WW ARCH=arm PLT=arm LINUX_VERSION=2_6_36
+        make install PROFILE=R7000 FW_TYPE=WW ARCH=arm PLT=arm LINUX_VERSION=2_6_36
 	
 3. The final image is "R7000-V1.0.7.6_1.1.99_src/src/router/arm-uclibc/kernel_image.chk".
 
