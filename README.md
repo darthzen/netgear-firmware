@@ -1,9 +1,11 @@
 # R7000 Firmware Build Instructions
 
 **Version: 1.0**
+
 **Date   : 2015/12/14**
 
 Note: 
+
       This package has been built successfully on 32-bit i386 Fedora 6 Linux 
       host machine. Compiling this package on platforms other than Fedora Core 6
       may have unexpected results.
